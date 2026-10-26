@@ -1,3 +1,5 @@
+#Enrollment no. : 92600584055
+#Name: Aditi Arun Mane
 #11. Develop an Expert system for medical diagnosis. 
 print('--------------Expert System------------------')
 
