@@ -1,3 +1,5 @@
+#Enrollment no. : 92600584055
+#Name: Aditi Arun Mane
 #Goal state
 goal = (1, 2, 3,
         4, 5, 6,
