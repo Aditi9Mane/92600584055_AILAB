@@ -1,3 +1,5 @@
+#Enrollment no. : 92600584055
+#Name: Aditi Arun Mane
 #6. Write a program to implement Single Player Game (Using Heuristic Function). 
 #Goal State
 goal = (1, 2, 3,
