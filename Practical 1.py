@@ -1,3 +1,5 @@
+#Enrollment no. : 92600584055
+#Name: Aditi Arun Mane
 #Implement Breadth First Search (for 8 puzzle problem). 
 #goal state
 goal = (1, 2, 3,
